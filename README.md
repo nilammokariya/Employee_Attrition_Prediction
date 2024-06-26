@@ -97,5 +97,4 @@ Jupyter Notebook can be run using Google Colab or locally using Anaconda Navigat
 ![4](Images/Report-4.jpg)
 ![5](Images/Report-5.jpg)
 ![6](Images/Report-6.jpg)
-# Predicting_Employee_Attrition
 # Employee_Attrition_Prediction
